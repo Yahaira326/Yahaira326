@@ -16,7 +16,7 @@
 
  💬 Ask me about ** React, JavaScript, MySQL... or anything [here]()**
 
- ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+ ⚡ Fun fact **Go is the oldest game in the world still played in its original form.**
  
  </div>
  
